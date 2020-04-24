@@ -1,15 +1,17 @@
 {
     "Name": "Bids Pilot Project",
-    "License": "Custom",
+    "License": "CC0",
     "Authors": [
         "Test"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "test",
-    "Funding": [""],
+    "Funding": [
+        ""
+    ],
     "ReferencesAndLinks": [
         "test"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001611.v2.0.0",
+    "DatasetDOI": "10.18112/openneuro.ds002733.v1.0.0",
     "BIDSVersion": "1.0.2"
 }
